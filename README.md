@@ -7,6 +7,11 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir yapıl
 -  Yeni görev ekleme  
 -  Görev silme  
 -  Görev tamamlama
+ 
+  ##  Canlı Demo
+
+Projeyi canlı olarak görmek için (https://efeturkyilmazz.github.io/todo-app/)
+
 
 ##  Kurulum
 
